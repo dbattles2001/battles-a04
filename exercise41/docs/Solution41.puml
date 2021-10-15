@@ -1,0 +1,16 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+class Solution41 {
+    Scanner input
+    ArrayList<string> names
+}
+
+class NameSorter{
+    +readNames()
+    +writeNames()
+}
+
+Solution41 --o NameSorter
+
+@enduml
