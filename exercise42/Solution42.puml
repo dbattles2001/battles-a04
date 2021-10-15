@@ -1,0 +1,15 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+class Solution42 {
+    Employee d
+    Scanner input
+}
+
+class Employee{
+    +writeNames()
+}
+
+Solution42 --o Employee
+
+@enduml
