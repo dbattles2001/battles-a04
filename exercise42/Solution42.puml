@@ -4,6 +4,7 @@
 class Solution42 {
     Employee d
     Scanner input
+    +main()
 }
 
 class Employee{

@@ -4,6 +4,7 @@
 class Solution41 {
     Scanner input
     ArrayList<string> names
+    +main()
 }
 
 class NameSorter{
