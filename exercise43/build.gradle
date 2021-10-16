@@ -18,3 +18,8 @@ dependencies {
 test {
     useJUnitPlatform()
 }
+run{
+    standardInput = System.in
+}
+
+mainClassName = "baseline.Solution43"

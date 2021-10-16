@@ -7,7 +7,10 @@ WebsiteGenerator d
 }
 
 class WebsiteGenerator {
-
+String path
++createWebsite(String websiteName)
 }
+
+Solution43 --o WebsiteGenerator
 
 @enduml
