@@ -23,7 +23,7 @@ public class Solution43 {
         String javascript = input.next();
 
         //call the websitegenerator
-        System.out.println("Created" + d.createWebsite(websiteName));
+        System.out.println("Created " + d.createWebsite(websiteName));
         System.out.println("Created " + d.createHTML(websiteName, authorsName));
 
         //if they chose either of the optional ones
